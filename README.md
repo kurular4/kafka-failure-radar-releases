@@ -28,7 +28,7 @@ On Windows, run `install.ps1` in PowerShell instead. The package has a full inst
 ## What you need
 
 - Docker (Docker Desktop on Windows), on an **x86-64** processor
-- Network access to your Kafka brokers, at the addresses they advertise
+- Kafka brokers 2.0 or newer (ZooKeeper or KRaft, up to 4.0), reachable at the addresses they advertise. Producers need broker 3.0+, disk and capacity views need 3.3+.
 - About 250 MB of memory
 
 ## Limits today
