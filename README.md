@@ -8,7 +8,7 @@ your cluster, the dashboard and its database. No account, no telemetry. It reads
 never message contents.
 
 > This repository only holds the downloads. Kafka Failure Radar is free to use but **closed-source**; the terms
-> are in `LICENSE.txt` inside the package.
+> are in [LICENSE.txt](LICENSE.txt).
 
 ## Download
 

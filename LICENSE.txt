@@ -1,0 +1,63 @@
+KAFKA FAILURE RADAR: TERMS OF USE (free, closed-source software)
+
+Version 1.0, 17 October 2026
+
+Copyright (c) 2026 Ömer Faruk KURULAR. All rights reserved.
+
+1. WHAT THIS IS
+   Kafka Failure Radar (the "Software") is distributed as a compiled program, free of charge. The source code
+   is not published and is not licensed to you.
+
+2. WHAT YOU MAY DO
+   You may, free of charge:
+   a) install and run the Software on as many computers as you need;
+   b) use it for your own purposes and for the internal purposes of your organization, including commercial
+      ones, to monitor Apache Kafka clusters that you or your organization operate;
+   c) keep copies for backup and for installing it on your own machines.
+
+3. WHAT YOU MAY NOT DO
+   Without written permission from the owner you may not:
+   a) sell, rent, lease or sublicense the Software, or offer it to others as a hosted or managed service;
+   b) redistribute the Software or a modified version of it, except to your own organization;
+   c) remove or change copyright notices or the name of the Software;
+   d) decompile, disassemble or otherwise try to obtain the source code, except as far as the law that
+      applies to you gives that right whatever this text says;
+   e) use the Software for anything unlawful.
+
+4. DONATIONS
+   The Software is free. Donations are voluntary, give no rights and buy no support, features or promises.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. It may show wrong
+   or late information. It is a help for diagnosing incidents and does not replace your own monitoring,
+   alerting and judgment.
+
+6. LIMITATION OF LIABILITY
+   TO THE EXTENT THE LAW ALLOWS, THE OWNER IS NOT LIABLE FOR ANY DAMAGE, LOSS OF DATA, LOSS OF PROFIT OR
+   INTERRUPTION OF BUSINESS ARISING FROM THE USE OF, OR THE INABILITY TO USE, THE SOFTWARE.
+
+7. DATA
+   The Software sends no data to the owner or to anyone else. It connects to the Kafka brokers you point it
+   at and, if you set them up, to the notification channels (for example a webhook or an email server) you
+   choose. It reads offsets and cluster metadata and does not read message contents. The data it keeps stays
+   on the machine where you run it.
+
+8. SUPPORT
+   Support is given at the owner's discretion, by email, without a promised response time.
+
+9. TRADEMARKS
+   Apache, Apache Kafka and Kafka are trademarks of the Apache Software Foundation. The Software is an
+   independent project and is not affiliated with, endorsed by or sponsored by the Apache Software
+   Foundation. The Software includes third-party components (for example PostgreSQL and open source Java
+   libraries) that remain under their own licenses.
+
+10. ENDING
+    These terms end automatically if you break them. Then you must stop using the Software and delete your
+    copies.
+
+11. LAW
+    These terms are governed by the law of the Republic of Türkiye. The courts of Ankara, Türkiye have
+    jurisdiction, as far as the law that protects you allows.
+
+Contact: arctyvelabs@gmail.com
