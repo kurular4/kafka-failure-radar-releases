@@ -39,7 +39,7 @@ On Windows, run `install.ps1` in PowerShell instead. The package has a full inst
 
 ## Support
 
-By email, best effort, with no promised response time: arctyvelabs@gmail.com. Please include the version
+By email, best effort, with no promised response time: kurular4@gmail.com. Please include the version
 (Settings > About) and the output of `docker compose logs radar`.
 
 ## Support the project
